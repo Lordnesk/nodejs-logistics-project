@@ -1,0 +1,10 @@
+{
+  "shipments": [
+    {
+      "id": 1,
+      "item": "Banana",
+      "quantity": 100,
+      "warehouseId": 1
+    }
+  ]
+}

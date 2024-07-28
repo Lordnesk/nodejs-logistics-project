@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-logistics-project",
+  "version": "1.0.0",
+  "description": "Practice",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev" : "nodemon src/server.js"
+  },
+  "author": "Andres Gonzalez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
